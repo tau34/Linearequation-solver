@@ -1,1 +1,1 @@
-# Linearequation-solver
+# Linear-equation-solver
